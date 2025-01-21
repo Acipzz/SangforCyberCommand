@@ -17,7 +17,7 @@
 
     <!-- Additional CSS Files -->
     <link rel="stylesheet" href="{{ asset('frontend/assets/css/fontawesome.css')}}">
-    <link rel="stylesheet" href="{{ asset('frontend/assets/css/templatemo-574-mexant.css')}}">
+    <link rel="stylesheet" href="{{ asset('frontend/assets/css/styling.css')}}">
     <link rel="stylesheet" href="{{ asset('frontend/assets/css/owl.css') }}">
     <link rel="stylesheet" href="{{ asset('frontend/assets/css/animate.css') }}">
     <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css">
